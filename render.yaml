@@ -13,7 +13,3 @@ value: Paulo-Moreira-n8n
 value: prm.n8n
 - key: N8N_HOST
 value: n8n-render-prm.onrender.com
-- key: N8N_PROTOCOL
-value: https
-- key: N8N_PORT
-value: 5678

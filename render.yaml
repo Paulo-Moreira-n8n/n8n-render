@@ -15,3 +15,5 @@ value: prm.n8n
 value: n8n-render-prm.onrender.com
 - key: N8N_PROTOCOL
 value: https
+- key: N8N_PORT
+value: 5678
